@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple App</string>
+    <string name="newUser">Enter Your Information</string>
+    <string name="radio_male">Male</string>
+    <string name="radio_female">Female</string>
+    <string name="userInfo">Your Information</string>
+</resources>
